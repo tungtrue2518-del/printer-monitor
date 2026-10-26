@@ -1,0 +1,9 @@
+{
+  "community": "public",
+  "pollSeconds": 180,
+  "printers": [
+    { "name": "Front office", "ip": "192.0.2.10" },
+    { "name": "Warehouse", "ip": "192.0.2.11" },
+    { "name": "Meeting room", "ip": "192.0.2.12", "community": "private-ro" }
+  ]
+}
